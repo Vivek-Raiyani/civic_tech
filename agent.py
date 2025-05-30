@@ -12,7 +12,6 @@ from typing import Optional
 from dotenv import load_dotenv
 from PIL import Image
 from io import BytesIO
-from google import genai
 from google.genai import types
 import base64
 
