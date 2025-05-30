@@ -12,7 +12,6 @@ from typing import Optional
 from dotenv import load_dotenv
 from PIL import Image
 from io import BytesIO
-from google.genai import types
 import base64
 
 from langchain.agents import initialize_agent, AgentType
